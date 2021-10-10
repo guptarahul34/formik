@@ -60,7 +60,7 @@ function YoutubeForm() {
                     name="name" 
                     className="form-control"
                     autoComplete="off" />
-                    {/* <span className="m-2">First Letter Must Be Capital Of Name </span> */}
+                    {/* <spangit className="m-2">First Letter Must Be Capital Of Name </span> */}
                 </div>
                 <div className="text-danger p-2">{(formik.touched.name) ? formik.errors.name : null}</div>
             </div>
