@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QAAW,CACX,SAAY,CACZ,qBACF","file":"main.decaca12.chunk.css","sourcesContent":["body{\n  margin: 0px;\n  padding: 0px;\n  box-sizing: border-box;\n}\n\n\n"]}
